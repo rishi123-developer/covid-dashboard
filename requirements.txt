@@ -1,0 +1,15 @@
+# Core dashboard framework
+streamlit>=1.30
+pandas>=2.2
+numpy>=1.26
+plotly>=5.20
+requests>=2.31
+
+# Animation and visuals
+streamlit-lottie==0.0.5
+
+# Machine learning (for LinearRegression or models)
+scikit-learn==1.4.2
+
+# Voice feedback (if you use speech)
+pyttsx3==2.90
