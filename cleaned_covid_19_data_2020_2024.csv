@@ -1,0 +1,81 @@
+Sr No,State/UT ,Cumulative Cases,Discharged/ Cured/,Deaths,,(Including,Migrated,Foreigners)
+1.0,A&N Islands ,10766,10637,129,
+2.0,Andhra Pradesh ,2340597,2325745,14733,
+3.0,Arunachal Pradesh ,66953,66618,296,
+4.0,Assam ,746122,738080,8035,
+5.0,Bihar ,854490,841528,12312,
+6.0,Chandigarh ,100590,99251,1185,
+7.0,Chhattisgarh ,1186659,1171033,14181,
+8.0,Dadar and Nagar Haveli,11592,11588,4,
+,and Daman and Diu ,,,,
+9.0,Delhi ,2039741,2011451,26637,
+10.0,Goa ,262560,258275,4014,
+11.0,Gujarat ,1290850,1279026,11074,
+12.0,Haryana ,1077951,1065266,10740,
+13.0,Himachal Pradesh ,321932,317042,4238,
+14.0,J&K (UT) ,481747,476716,4790,
+15.0,Jharkhand ,443738,438191,5333,
+16.0,Karnataka ,4086958,4045771,40351,
+17.0,Kerala ,6898661,6818928,71861,
+18.0,Ladakh ,29573,29332,231,
+19.0,Lakshadweep ,11415,11363,52,
+20.0,Madhya Pradesh ,1056291,1045387,10786,
+21.0,Maharashtra ,8166867,8015860,148532,
+22.0,Manipur ,139970,137806,2149,
+23.0,Meghalaya ,96874,95222,1626,
+24.0,Mizoram ,239121,238296,727,
+25.0,Nagaland ,36005,35218,782,
+26.0,Odisha ,1346371,1332855,9213,
+27.0,Puducherry ,177376,175313,1981,
+28.0,Punjab ,792774,771340,19320,
+29.0,Rajasthan ,1325574,1314068,9709,
+30.0,Sikkim ,44690,44101,500,
+31.0,Tamil Nadu ,3609537,3569594,38073,
+32.0,Telangana ,843803,839405,4111,
+33.0,Tripura ,108113,107130,940,
+34.0,Uttar Pradesh ,2143910,2118329,23692,
+35.0,Uttarakhand ,452244,444333,7764,
+36.0,West Bengal ,2123154,2099317,21541,
+,TOTAL ,44965569,44399415,531642,
+,State/UT ,Cumulative Cases,Discharged/ Cured/,Deaths,,(Including,Migrated,Foreigners),,,Sr No
+,A & N Islands ,0,0,0,1
+,Andhra Pradesh ,488,588,0,2
+,Arunachal Pradesh ,95,134,0,3
+,Assam ,138,142,3,4
+,Bihar ,1144,1740,2,5
+,Chandigarh ,160,298,1,6
+,Chhattisgarh ,1905,3025,23,7
+,Dadar and Nagar,,,,8
+,Haveli and Daman and,,,,
+,Diu ,0,0,0,
+,Delhi ,3822,5049,63,9
+,Goa ,1104,1360,0,10
+,Gujarat ,1848,2465,26,11
+,Haryana ,1077,2696,46,12
+,Himachal Pradesh ,1142,1681,9,13
+,J&K (UT) ,434,659,2,14
+,Jharkhand ,111,292,4,15
+,Karnataka ,10447,11131,60,16
+,Kerala ,21807,28798,273,17
+,Ladakh ,115,125,0,18
+,Lakshadweep ,0,0,0,19
+,Madhya Pradesh ,529,617,1,20
+,Maharashtra ,11197,13318,68,21
+,Manipur ,70,85,0,22
+,Meghalaya ,114,141,2,23
+,Mizoram ,500,589,7,24
+,Nagaland ,28,33,0,25
+,Odisha ,2165,6211,2,26
+,Puducherry ,417,484,1,27
+,Punjab ,1157,1930,1279,28
+,Rajasthan ,2245,3764,34,29
+,Sikkim ,283,370,1,30
+,Tamil Nadu ,2529,4166,12,31
+,Telangana ,1086,1360,0,32
+,Tripura ,472,516,3,33
+,Uttar Pradesh ,2283,3898,50,34,
+,Uttarakhand ,521,658,14,35
+,West Bengal ,4663,7029,16,36
+,TOTAL ,76096,105352,2002,
+,,,,, Note: Till 9th June 2024 Covid-19 reporting was on the daily basis; later the weekly reporting started
+,,,,,from 10th June 2024 i.e week-24 
