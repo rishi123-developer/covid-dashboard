@@ -6,3 +6,4 @@ requests==2.31.0
 scikit-learn==1.3.2
 streamlit-webrtc
 SpeechRecognition==3.10.0
+streamlit-lottie
